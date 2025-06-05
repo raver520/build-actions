@@ -28,6 +28,7 @@ on:
         default: 'x86_64'
         type: choice
         options:
+          - 'ZN-M2'
           - 'armsr_rootfs_tar_gz'
           - '1907-armsr_rootfs_tar_gz'
           - 'phicomm_k3'
